@@ -17,8 +17,8 @@
 传统的机器学习方法，最终使用XGBClassifier、LGBMClassifier、LogisticRegression三种模型融合，具体包含以下几个步骤，并附有博客详细介绍
 + [数据分析和探索](https://betterbench.blog.csdn.net/article/details/113858039)
 + [特征工程](https://betterbench.blog.csdn.net/article/details/113869071)
-+ [模型训练]()
-+ [模型调参]()
++ [模型训练](https://betterbench.blog.csdn.net/article/details/115326230)
++ [模型调参](https://betterbench.blog.csdn.net/article/details/115326536)
 
 # 2 方案二(TextCNN-Tensorflow)待上传
 （1）环境
