@@ -13,7 +13,7 @@
 ----train_model.py  # 模型训练及生成提交文件
 ----adjust_parameter.py # 模型调参
 ```
-（3）思路
+（3）思路  
 传统的机器学习方法，最终使用XGBClassifier、LGBMClassifier、LogisticRegression三种模型融合，具体包含以下几个步骤，并附有博客详细介绍
 + [数据分析和探索](https://betterbench.blog.csdn.net/article/details/113858039)
 + [特征工程](https://betterbench.blog.csdn.net/article/details/113869071)
